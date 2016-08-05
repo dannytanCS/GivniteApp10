@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A58CA5055E9715B7E78B0D159C683EBB694566A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3D1DB3EAF35B4D86F41AB1F3C7CEF5B020425062" : 0,
+    "2EB176B4D6F85FD046F18A921372EC06717B72E4" : 0,
+    "F980EF984B2A394F32C6B2468C0B2EBD62115B56" : 0,
+    "A58CA5055E9715B7E78B0D159C683EBB694566A3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1BD8B871-6B15-4E26-B105-08ACDF66DA5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3D1DB3EAF35B4D86F41AB1F3C7CEF5B020425062" : "Givnite_iOS\/",
+    "2EB176B4D6F85FD046F18A921372EC06717B72E4" : "Givnite_iOS_08-03\/",
+    "F980EF984B2A394F32C6B2468C0B2EBD62115B56" : "GivniteApp8\/",
+    "A58CA5055E9715B7E78B0D159C683EBB694566A3" : "GivniteApp9\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Givnite_iOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Givnite_iOS.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bobleesj\/Givnite_iOS_08-03.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2EB176B4D6F85FD046F18A921372EC06717B72E4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bobleesj\/Givnite_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D1DB3EAF35B4D86F41AB1F3C7CEF5B020425062"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bobleesj\/GivniteApp9.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A58CA5055E9715B7E78B0D159C683EBB694566A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dannytanCS\/GivniteApp8.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F980EF984B2A394F32C6B2468C0B2EBD62115B56"
+    }
+  ]
+}
