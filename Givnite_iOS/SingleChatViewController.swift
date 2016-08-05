@@ -98,11 +98,10 @@ class SingleChatViewController: JSQMessagesViewController {
             self.otherUsername = snapshotDict?.valueForKey("otherUsername") as? String
             self.title = self.otherUsername
             
-            if let unread = snapshotDict?.valueForKey("unread") as? NSDictionary {
+            let unread = snapshotDict?.valueForKey("unread") as! NSDictionary
             
-                if unread.valueForKey("0") as? String == self.otherUID {
-                    chatRef.child("unread").child("1").setValue("no")
-                }
+            if unread.valueForKey("0") as? String == self.otherUID {
+                chatRef.child("unread").child("1").setValue("no")
             }
         })
         
